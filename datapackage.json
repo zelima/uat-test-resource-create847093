@@ -1,6 +1,4 @@
 {
-  "data_privacy_regulated": false, 
-  "description": "empty", 
   "contributors": [
     {
       "role": "maintainer", 
@@ -8,24 +6,69 @@
       "title": "irakli-mchedlishvili"
     }
   ], 
-  "geographic_level": "global", 
-  "data_privacy_country": [
-    "ARG"
-  ], 
-  "visibility": "public", 
+  "relationships_as_object": [], 
+  "private": false, 
+  "num_tags": 0, 
   "licenses": [
     {
-      "name": "cc-by"
+      "path": "http://www.opendefinition.org/licenses/cc-by", 
+      "name": "cc-by", 
+      "title": "Creative Commons Attribution"
     }
   ], 
+  "data_privacy_regulated": false, 
+  "keywords": [], 
   "id": "d1991acb-f89a-4516-ac4b-91a05a675ef6", 
+  "metadata_created": "2020-07-20T11:08:35.409785", 
+  "metadata_modified": "2020-07-20T11:08:44.384141", 
+  "type": "dataset", 
+  "resources": [
+    {
+      "hash": "", 
+      "description": "", 
+      "path": "resource", 
+      "datastore_contains_all_records_of_source_file": "False", 
+      "id": "c8499ac6-0c35-443b-84b3-b74b664dcd9d", 
+      "metadata_modified": "2020-07-20T11:08:44.395351", 
+      "created": "2020-07-20T11:08:44.405468", 
+      "format": "", 
+      "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+      }, 
+      "revision_id": "eb40ee11-e067-4e94-ab31-57afdd36bebc"
+    }
+  ], 
+  "num_resources": 1, 
+  "description": "empty", 
+  "geographic_level": "global", 
+  "tracking_summary": {
+    "total": 0, 
+    "recent": 0
+  }, 
+  "organization": {
+    "description": "", 
+    "title": "", 
+    "created": "2020-07-20T11:08:34.913311", 
+    "approval_status": "approved", 
+    "is_organization": true, 
+    "state": "active", 
+    "image_url": "", 
+    "revision_id": "3d9414b6-0588-4fda-bb78-66f360d555fa", 
+    "type": "organization", 
+    "id": "b01214ed-b6ca-4847-a1dd-3b1b2432d82e", 
+    "name": "uat-testing"
+  }, 
+  "visibility": "public", 
+  "groups": [], 
+  "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
+  "relationships_as_subject": [], 
   "publisher": "irakli-mchedlishvili", 
   "information_classification": "public-public-external", 
   "locked": false, 
   "name": "uat-test-resource-create847093", 
-  "title": "uat-test-resource-create847093", 
+  "isopen": true, 
   "owner_org": "b01214ed-b6ca-4847-a1dd-3b1b2432d82e", 
-  "private": false, 
-  "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
-  "type": "dataset"
+  "title": "uat-test-resource-create847093", 
+  "revision_id": "4fe2ac3a-6286-403b-b4e3-3dcc3d6c72c0"
 }
